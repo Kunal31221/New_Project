@@ -1,0 +1,44 @@
+
+ls--> List of files 
+
+git add text1.txt --> single file add in git repostary 
+
+git status --> Current status of all files
+
+git commit -m "My First Commit" --> This the message before push the file
+
+*add anything in your file*
+
+git status
+
+git add text1.txt
+
+git commit -m "I am add my name"
+
+
+*Switch the branch command*
+
+git checkout KunalJoshi
+
+
+*Make a new branch*
+
+git branch "Joshiji"
+
+git switch -c main 
+
+git checkout Joshiji
+
+
+*Push your code in GitHub*
+
+git push -u origin KunalJoshi
+
+
+*Copy the code*
+git clone https://github.com/Kunal31221/Kunal-Joshi.git
+
+
+
+
+
